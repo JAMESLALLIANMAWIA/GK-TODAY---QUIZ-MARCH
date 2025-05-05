@@ -1,0 +1,15 @@
+{
+    "questions": [
+        {
+            "question": "Which country hosted the 2024 G20 Summit in March?",
+            "options": ["India", "Brazil", "Italy", "Japan"],
+            "answer": 1
+        },
+        {
+            "question": "What was the theme of International Women's Day 2024?",
+            "options": ["DigitALL", "Break the Bias", "Invest in Women", "Equality Now"],
+            "answer": 2
+        }
+        // Add 98 more questions here
+    ]
+}
